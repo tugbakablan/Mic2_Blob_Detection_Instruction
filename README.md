@@ -1,6 +1,6 @@
 Mic-2 Custom Instruction for Blob Detection
 
-<img width="1130" height="697" alt="image" src="https://github.com/user-attachments/assets/aba11ee3-bc43-4919-80d2-dcefcc236a6d" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/aba11ee3-bc43-4919-80d2-dcefcc236a6d" />
 
 This project includes the design of a custom instruction on the Mic-2
 microprogrammed processor architecture. The instruction performs
